@@ -2,22 +2,29 @@
 
 A responsive and minimal Intern Management System built using **React**, **Vite**, and **Tailwind CSS**. Designed to track, display, and manage intern profiles efficiently.
 
-## 📂 Folder Structure
+## 📁 Folder Structure
 
+```bash
 intern_system/
+├── node_modules/
 ├── public/
 ├── src/
-│ ├── assets/
-│ ├── component/
-│ │ └── cardintern.jsx
-│ ├── App.jsx
-│ ├── App.css
-│ ├── index.css
-│ ├── main.jsx
+│   ├── assets/               # Images and media assets
+│   ├── component/            # Reusable React components
+│   │   └── cardintern.jsx    # Intern profile card component
+│   ├── App.css               # App-specific styles
+│   ├── App.jsx               # Main App component
+│   ├── index.css             # Global styles
+│   ├── main.jsx              # Entry point of the React app
 ├── .gitignore
 ├── index.html
+├── package-lock.json
 ├── package.json
+├── README.md
 ├── vite.config.js
+└── eslint.config.js          # ESLint configuration
+```
+
 
 
 ## 🧰 Tech Stack
