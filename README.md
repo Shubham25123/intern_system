@@ -41,8 +41,9 @@ intern_system/
 - 💡 Clean and scalable structure
 
 ## 📸 Preview
+![Screenshot 2025-06-23 001008](https://github.com/user-attachments/assets/7bbb6e1a-b172-4e2a-bc3d-9f8310d8b649)
 
-> Coming soon – Add a screenshot or GIF here for better visual appeal!
+![Screenshot 2025-06-23 001108](https://github.com/user-attachments/assets/825bbf3b-1a5d-4e7c-9c10-d14655b4fd0a)
 
 ## 🚀 Getting Started
 
